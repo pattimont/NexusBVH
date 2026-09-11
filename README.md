@@ -7,7 +7,7 @@ It implements the H-PLOC algorithm proposed by [Benthin et al. 2024](https://dl.
 
 On top of the binary BVH, NexusBVH can collapse the hierarchy into a **compressed wide BVH8** in the style of [Ylitie et al. 2017](https://research.nvidia.com/publication/2017-07_efficient-incoherent-ray-traversal-gpus-through-compressed-wide-bvhs) — 8 children per node, quantized down to 80 bytes.
 
-> 📝 *This project was originally developed as part of the GPU Computing course at Ensimag. The full report is available [here](https://patrick-attimont.com/assets/documents/NXB_report.pdf).*
+> 📝 *This project was originally developed as part of the GPU Computing course at Ensimag. The full report is available [here](https://patrick-attimont.com/assets/NXB_report.pdf).*
 
 
 ## At a glance
