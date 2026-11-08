@@ -50,7 +50,7 @@ The project has been tested on both **Windows** (with Visual Studio) and **Ubunt
 ## Build
 
 ```sh
-git clone https://github.com/StokastX/NexusBVH
+git clone https://github.com/pattimont/NexusBVH
 cd NexusBVH
 cmake -S . -B build
 cmake --build build --config Release
