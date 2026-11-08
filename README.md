@@ -37,7 +37,7 @@ The project has been tested on both **Windows** (with Visual Studio) and **Ubunt
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/StokastX/NexusBVH
+   git clone https://github.com/pattimont/NexusBVH
    ```
 
 2. **Generate the solution via cmake**:
